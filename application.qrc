@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/play.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/restart.png</file>
+        <file>icon/save.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/on.png</file>
+        <file>icon/off.png</file>
+        <file>icon/erase.png</file>
+        <file>icon/draw.png</file>
+        <file>icon/palette.png</file>
+    </qresource>
+</RCC>
