@@ -20,7 +20,7 @@ Two main facilities of application :
 Application was written in **C++** language + **OpenGL**  library to render 3D scene + **QT**  - application GUI. 
 *Main Features*:
   - Solves differential equations based on Rungego-Kutty algorithm 
-  - Draws planes based on $ax+by+cz+d=0$ equation.
+  - Draws planes based on ax+by+cz+d=0 equation.
   - Controls drawing (manipulate spped of drwaing , stop , start, restart drwaing) + progress bar shows the rendering porgress of trajectories.
   - Initial points selection (random, from definded range, based on small cubes(stere) etc.)
   - Coordinate system and stere properties 
