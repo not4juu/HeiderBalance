@@ -10,7 +10,7 @@ Aplication was created based on proposed by Fritz Heider balance theory ( theory
 > my enemy’s enemy is my friend
 
 ### Description
-Firstly you should comprehensible how heider theory works it will help you explore an  aplication. The main practicality of application is visuualization an impact on initial points of trajectory in accordance with differential eqations inspired by balance theory.   
+Firstly you should comprehensible how heider theory works it will help you explore an  aplication. The main practicality of application is visualization impact on initial points of trajectory in accordance with differential eqations inspired by balance theory.   
 
 ### Application
 Two main facilities of application :
