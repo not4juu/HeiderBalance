@@ -17,7 +17,8 @@ Two main facilities of application :
   - Draws in real-time trajectories based on initial points in 3D
   - Creates statistic based on huge amount of initial points 
 
-Application was written in **C++** language + **OpenGL**  library to render 3D scene + **QT**  - application GUI. 
+Application was written in **C++** language + **OpenGL**  library to render 3D scene + **QT**  - application GUI.
+
 *Main Features*:
   - Solves differential equations based on Rungego-Kutty algorithm 
   - Draws planes based on ax+by+cz+d=0 equation.
