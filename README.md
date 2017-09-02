@@ -27,3 +27,6 @@ Application was written in **C++** language + **OpenGL**  library to render 3D s
   - Coordinate system and stere properties 
   - Image snapshot saving
   - Generats well-formed xml statistic based on huge amount of initial points. 
+
+http://iopscience.iop.org/article/10.1209/0295-5075/118/58005/met
+http://www.ftj.agh.edu.pl/~kulakowski/wroclaw92.pdf
